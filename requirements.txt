@@ -1,0 +1,4 @@
+#The following is a list of packages that are imported in app.py
+
+pysimplegui
+paramiko
